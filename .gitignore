@@ -1,0 +1,65 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+.vscode-test/
+
+# Logs
+*.log
+logs/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Build results
+*.dll
+*.exe
+*.app
+*.so
+*.dylib
+*.pdb
+*.cache
+*.ilk
+*.lib
+*.obj
+*.o
+*.lo
+*.slo
+*.a
+*.la
+*.lai
+*.dbg
+*.dSYM/
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Generated files
+*.g.cs
+*.g.i.cs
+*.generated.cs
+*.AssemblyInfo.cs
+*.AssemblyAttributes.cs
+*.CodeAnalysisLog.xml
+*.ruleset.testresults
+TestResults/
+*.vsix
+*.appx
+*.appxsym
+*.appxupload
+*.appinstaller
+*.vscode-test/

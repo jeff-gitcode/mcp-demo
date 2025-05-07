@@ -67,16 +67,19 @@ mcp-demo/
 ctrl+i to open the chat window
 
 ## Weather MCP demo
-![MCP Demo](doc/mcp-demo.gif)
+![MCP Weather Demo](doc/mcp-demo.gif)
 
 ## Github MCP demo in Cursor
-![MCP Demo](doc/mcp-github-demo.gif)
+![MCP Github Demo](doc/mcp-github-demo.gif)
 
 ## Sequential Thinking MCP demo
-![MCP Demo](doc/mcp-st-demo.gif)
+![MCP Sequential Thinking Demo](doc/mcp-st-demo.gif)
 
 ## Hot News MCP demo
-![MCP Demo](doc/mcp-news-demo.gif)
+![MCP Hot News Demo](doc/mcp-news-demo.gif)
+
+## A Stock Share MCP demo
+![MCP Share Demo](doc/mcp-share-demo.gif)
 
 ## Test 
 ```bash

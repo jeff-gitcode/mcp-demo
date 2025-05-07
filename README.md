@@ -61,7 +61,22 @@ mcp-demo/
 ```
 
 ## Setup MCP server and Test in Cursor
+
+![MCP Config](doc/cursor.png)
+
+ctrl+i to open the chat window
+
+## Weather MCP demo
 ![MCP Demo](doc/mcp-demo.gif)
+
+## Github MCP demo in Cursor
+![MCP Demo](doc/mcp-github-demo.gif)
+
+## Sequential Thinking MCP demo
+![MCP Demo](doc/mcp-st-demo.gif)
+
+## Hot News MCP demo
+![MCP Demo](doc/mcp-news-demo.gif)
 
 ## Test 
 ```bash
